@@ -2,8 +2,16 @@
 
 Just for self learning and references
 
-Time Series Analysis in Python – A Comprehensive Guide with Examples:
+Useful Link: 
+
+1. Time Series Analysis in Python – A Comprehensive Guide with Examples:
 (https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
+
+2. Time Series Tutorial
+https://www.tutorialspoint.com/time_series/index.htm
+
+3. Statistic Tutorial
+https://www.tutorialspoint.com/statistics/index.htm
 
 1. Pattern of Time Series Data
 - Trend: show a long term increase or decrease in data
